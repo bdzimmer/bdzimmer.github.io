@@ -1,0 +1,53 @@
+# Copyright (c) 2015 Ben Zimmer. All rights reserved.
+
+# Personal website
+# 2015-10-25: Created.
+
+!collection
+id: master
+name: Ben Zimmer
+notes: |- 
+  Hi! I'm Ben Zimmer. Most days, I drink black tea, consume donuts, and build high performance scientific and analytic software. I am currently working for 3M corporate research in Maplewood, MN.
+  
+  <br />
+  
+  ### Personal Software Projects
+  
+  ---
+  
+  * **[gdrive-scala](https://github.com/bdzimmer/gdrive-scala)** - tiny Scala library for Google Drive.
+  * **[Secondary](https://github.com/bdzimmer/secondary)** - static site generator created specifically for [worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding).
+  
+  <br />	
+  
+  ### Talks
+  
+  ---
+  
+  * **Build Your Own Data Analytics Cluster** - [video](https://www.youtube.com/watch?v=KWVh2oh54sU) - [slides](https://github.com/tcrug/2015-meeetups/blob/master/January/Build%20Your%20Own%20Data%20Analytics%20Cluster%2020150122.pdf) - demonstration of a Big Data stack with an n-gram viewer application I created using Cassandra, Spark, and Shiny.
+  
+  <br />
+  
+  ### Connect
+  
+  ---
+  
+  * **[@ben_zimmer](https://twitter.com/ben_zimmer)**
+  * **[GitHub](https://github.com/bdzimmer)**
+  * **[LinkedIn](https://www.linkedin.com/pub/ben-zimmer/25/b3/389)**
+ 
+  
+  <br />
+  
+  ### Other Links
+  
+  ---
+  
+  * **[Otherwise Fantastic](http://otherwisefantastic.blogspot.com/)** - my wife's blog. Thoughtful critical reviews of books, movies, and shows.
+  
+  <br />
+  
+ 
+
+
+  

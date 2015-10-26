@@ -1,0 +1,31 @@
+
+/* Copyright (c) 2015 Ben Zimmer. All rights reserved. */
+/* Set a custom font and increase the font size for everything. */
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1, .h1 {font-size: 42px}
+h2, .h2 {font-size: 36px}
+h3, .h3 {font-size: 30px}
+h4, .h4 {font-size: 24px}
+h5, .h5 {font-size: 18px}
+h6, .h6 {font-size: 14px}
+
+.jumbotron h1, .jumbotron h1 {
+  font-size: 72px;
+}
+
+p, div {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 16px;
+}
+
+p {
+  margin: 0 0 20px;
+}
+
+body {
+  line-height: 2;
+}
