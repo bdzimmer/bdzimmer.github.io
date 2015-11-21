@@ -6,6 +6,6 @@ name: Images
 children:
 
 - !image
-  id: blank
-  name: Blank Image
-  filename: images/blank.jpg
+  id: profile
+  name: Profile Photo
+  filename: images/profile.jpg

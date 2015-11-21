@@ -1,9 +1,13 @@
-
 /* Copyright (c) 2015 Ben Zimmer. All rights reserved. */
+
 /* Set a custom font and increase the font size for everything. */
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: 'Libre Baskerville', serif;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a {
+  color: inherit;
 }
 
 h1, .h1 {font-size: 42px}
@@ -13,7 +17,13 @@ h4, .h4 {font-size: 24px}
 h5, .h5 {font-size: 18px}
 h6, .h6 {font-size: 14px}
 
-.jumbotron h1, .jumbotron h1 {
+h4, .h4 {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+.jumbotron h1, .jumbotron .h1 {
   font-size: 72px;
 }
 
@@ -29,3 +39,19 @@ p {
 body {
   line-height: 2;
 }
+
+/* swiveling arrow checkboxes and collapsible lists */
+
+input.swivel[type=checkbox] { display:none; }
+input.swivel[type=checkbox] ~ label:after {
+  font-family: 'Glyphicons Halflings';
+  font-size: 12px;
+  display: inline-block;
+  margin-left: 10px;
+}
+input.swivel[type=checkbox] ~ label:after { content: "\e258"; }
+input.swivel[type=checkbox]:checked ~ label:after { content: "\e259"; }
+
+li.swivel > input ~ ul { display: none; }
+li.swivel > input:checked ~ ul { display: block; }
+li.swivel label { margin-bottom: 0px; }
