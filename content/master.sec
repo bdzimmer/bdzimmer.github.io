@@ -1,4 +1,4 @@
-# Copyright (c) 2016 Ben Zimmer. All rights reserved.
+# Copyright (c) 2019 Ben Zimmer. All rights reserved.
 
 # Personal website
 
@@ -6,13 +6,13 @@
 id: master
 name: Ben Zimmer
 
-Hi! I'm Ben Zimmer. Most days, I drink black tea and build high performance software systems for AI applications. I am currently working for 3M corporate research in Maplewood, MN.
+Hi! I'm Ben Zimmer. Most days, I drink black coffee and build high performance software systems for AI applications. I am currently working for 3M corporate research in Maplewood, MN.
 
 #### Skills
 
 * **Languages:** Python, C++, R, Scala, Java, MATLAB
-* **Libraries and frameworks:** NumPy, OpenCV, scikit-learn, SWIG, Spark, Shiny
-* **Research:** image and mesh processing, machine learning, software optimization
+* **Libraries and frameworks:** NumPy, OpenCV, scikit-learn, PyTorch, SWIG, Spark, Shiny
+* **Research:** image and mesh processing, machine learning, software and mathematical optimization
 * **Interests:** functional programming, abstract algebra
 
 #### Personal Software Projects
@@ -21,14 +21,12 @@ Hi! I'm Ben Zimmer. Most days, I drink black tea and build high performance soft
 * **[orbits](https://github.com/bdzimmer/orbits)** - calculate the positions of the planets and plan constant acceleration flight paths between them. Built around a tiny, pure functional [vector math library](https://github.com/bdzimmer/orbits/blob/master/src/main/scala/bdzimmer/orbits/Vectors.scala).
 * **[pixel-editor](https://github.com/bdzimmer/pixel-editor)** - create pixel art sprites, tiles, and backgrounds with configurable limitations that simulate classic game consoles and old computer hardware.
 
-
 #### Talks
 
 * **Build Your Own Data Analytics Cluster** - [video](https://www.youtube.com/watch?v=KWVh2oh54sU) - [slides](https://github.com/tcrug/2015-meeetups/blob/master/January/Build%20Your%20Own%20Data%20Analytics%20Cluster%2020150122.pdf) - demonstration of a Big Data stack with an n-gram viewer application I created using Cassandra, Spark, and R / Shiny.
 
 #### Connect
 
-* **[Twitter](https://twitter.com/ben_zimmer)**
 * **[GitHub](https://github.com/bdzimmer)**
 * **[LinkedIn](https://www.linkedin.com/in/bdzimmer)**
 
