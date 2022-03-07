@@ -6,20 +6,21 @@
 id: master
 name: Ben Zimmer
 
-Hi! I'm Ben Zimmer. Most days, I drink black coffee and build high performance software systems for AI applications. I am currently working for 3M corporate research in Maplewood, MN.
+Hi! I'm Ben Zimmer. Most days, I drink black coffee and build high performance software systems for AI applications. I am currently working as a machine learning research specialist at 3M Health Information Systems.
 
 #### Skills
 
 * **Languages:** Python, C++, R, Scala, Java, MATLAB
-* **Libraries and frameworks:** NumPy, OpenCV, scikit-learn, PyTorch, SWIG, Spark, Shiny
+* **Libraries and frameworks:** NumPy, OpenCV, scikit-learn, PyTorch, TensorFlow
 * **Research:** image and mesh processing, machine learning, software and mathematical optimization
 * **Interests:** functional programming, abstract algebra
 
 #### Personal Software Projects
 
-* **[secondary](https://github.com/bdzimmer/secondary)** - markup language and static site generator for creating [fictional universes](https://en.wikipedia.org/wiki/Fictional_universe). Includes many features specifically for worldbuilding such as timelines and family trees, but also functions as a general purpose tool for tracking information and tasks.
+* **[modeling](https://github.com/bdzimmer/modeling)** - functional library for programmatic 3D modeling. Create complex objects, assemble scenes, and render with Blender.
+* **[symbols](https://github.com/bdzimmer/symbols)** - tools for geometric motion graphics, text rendering, image manipulation, and compositing.
+* **[secondary](https://github.com/bdzimmer/secondary)** - markup language and static site generator for creating [fictional universes](https://en.wikipedia.org/wiki/Fictional_universe), writing, and publishing.
 * **[orbits](https://github.com/bdzimmer/orbits)** - calculate the positions of the planets and plan constant acceleration flight paths between them. Built around a tiny, pure functional [vector math library](https://github.com/bdzimmer/orbits/blob/master/src/main/scala/bdzimmer/orbits/Vectors.scala).
-* **[pixel-editor](https://github.com/bdzimmer/pixel-editor)** - create pixel art sprites, tiles, and backgrounds with configurable limitations that simulate classic game consoles and old computer hardware.
 
 #### Talks
 
@@ -29,8 +30,3 @@ Hi! I'm Ben Zimmer. Most days, I drink black coffee and build high performance s
 
 * **[GitHub](https://github.com/bdzimmer)**
 * **[LinkedIn](https://www.linkedin.com/in/bdzimmer)**
-
-#### Other Links
-
-* **[Otherwise Fantastic](http://otherwisefantastic.blogspot.com/)** - my wife's blog. Thoughtful critical reviews of books, movies, and shows.
-* **[Woodland Sketches](https://www.etsy.com/shop/WoodlandSketches)** - my sister's stationary business. Cards featuring woodland creatures with musical instruments.
