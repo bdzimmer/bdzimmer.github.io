@@ -6,25 +6,23 @@
 id: master
 name: Ben Zimmer
 
-Hi! I'm Ben Zimmer. Most days, I drink black coffee and build high performance software systems for AI applications. I am currently working as a machine learning research specialist at 3M Health Information Systems.
+Hi! I'm Ben Zimmer. Most days, I drink black coffee and build high performance software systems for AI applications. I most recently worked as a data scientist at [Prolego](https://prolego.com) and as a machine learning research specialist at [3M](https://3m.com) / [Solventum](https://solventum.com).
 
 #### Skills
 
-* **Languages:** Python, C++, R, Scala, Java, MATLAB
-* **Libraries and frameworks:** NumPy, OpenCV, scikit-learn, PyTorch, TensorFlow
-* **Research:** image and mesh processing, machine learning, software and mathematical optimization
-* **Interests:** functional programming, abstract algebra
+* **Research:** image processing, 3D mesh processing, machine learning (deep learning, generative models, sequence models, LLMs)
+* **Languages:** Python, C++, R, Scala, Java, MATLAB / Octave, Rust
+* **Libraries and frameworks:** NumPy, OpenCV, scikit-learn, PyTorch, TensorFlow, SpeechBrain, ONNX, transformers, llama-cpp-python
+* **Other**: functional programming, Git, Linux system administration, AWS (EC2, S3, SageMaker), Docker, Scrum
 
 #### Personal Software Projects
 
-* **[modeling](https://github.com/bdzimmer/modeling)** - functional library for programmatic 3D modeling. Create complex objects, assemble scenes, and render with Blender.
-* **[symbols](https://github.com/bdzimmer/symbols)** - tools for geometric motion graphics, text rendering, image manipulation, and compositing.
 * **[secondary](https://github.com/bdzimmer/secondary)** - markup language and static site generator for creating [fictional universes](https://en.wikipedia.org/wiki/Fictional_universe), writing, and publishing.
 * **[orbits](https://github.com/bdzimmer/orbits)** - calculate the positions of the planets and plan constant acceleration flight paths between them. Built around a tiny, pure functional [vector math library](https://github.com/bdzimmer/orbits/blob/master/src/main/scala/bdzimmer/orbits/Vectors.scala).
 
 #### Talks
 
-* **Build Your Own Data Analytics Cluster** - [video](https://www.youtube.com/watch?v=KWVh2oh54sU) - [slides](https://github.com/tcrug/2015-meeetups/blob/master/January/Build%20Your%20Own%20Data%20Analytics%20Cluster%2020150122.pdf) - demonstration of a Big Data stack with an n-gram viewer application I created using Cassandra, Spark, and R / Shiny.
+* **Build Your Own Data Analytics Cluster (2015)** - [video](https://www.youtube.com/watch?v=KWVh2oh54sU) - [slides](https://github.com/tcrug/2015-meeetups/blob/master/January/Build%20Your%20Own%20Data%20Analytics%20Cluster%2020150122.pdf) - demonstration of a Big Data stack with an n-gram viewer application I created using Cassandra, Spark, and R / Shiny.
 
 #### Connect
 
